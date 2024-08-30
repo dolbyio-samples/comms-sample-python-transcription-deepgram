@@ -1,3 +1,5 @@
+# :warning: This repository is no longer maintained :warning:
+
 ![Blog Picture](https://dolby.io/wp-content/uploads/2022/03/Transcribing-DolbyIO-Communications-Recordings-with-Deepgram.jpg)
 
 # Transcribing Dolby.io Communications Recordings with Deepgram
